@@ -1,0 +1,25 @@
+header {
+    margin-top: auto;
+    background: lightslategray;
+    text-align: center;
+}
+
+.gamebox {
+    border-style: double;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.timer {
+    display: flex;
+    justify-content: flex-end;
+    color: blue;
+    margin-right: 150px;
+}
+
+.hide {
+    display: none
+
+}
+
